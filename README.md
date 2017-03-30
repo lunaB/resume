@@ -1,11 +1,9 @@
 <h1>나영채 [NA YOUNG CHEA]</h1>
-<hr/>
 <h2>Introduce</h2>
 <p>
 양영디지털고등학교에 재학중인 프로그래머를 희망하는 00년생 개발자 입니다.<br>
 다방면적으로 공부하는것을 좋아합니다.
 </p>
-<hr/>
 
 <h2>studing</h2>
 <ul>
@@ -41,11 +39,9 @@
     </ul>
   </li>
 </ul>
-<hr/>
 ### Development List
 
 
-<hr/>
 ### activity
 <ul>
 <li>2016-04 ~ 2016-12 : IT 희망학교 4기 멘티 </li>
@@ -69,7 +65,6 @@
 </ul>
 </li>
 </ul>
-<hr/>
 ### Language
 ###### Main Language
 > JAVA
@@ -81,4 +76,3 @@
 > C#
 > PYTHON
 > C
-<hr/>
