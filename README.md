@@ -1,12 +1,50 @@
 # 나영채 [NA YOUNG CHEA]
-
 <hr/>
 ### Introduce
+<p>
 양영디지털고등학교에 재학중인 프로그래머를 희망하는 00년생 개발자 입니다.<br>
 다방면적으로 공부하는것을 좋아합니다.<br>
-
+</p>
 <hr/>
 ### studing
+<ul>
+<li><a href="#">C_review</a>
+<ul>
+<li>중학생때 공부했었던 C언어 프로젝트들을 잃어버려서 복습차원에서 만든 프로젝트들 또는 학교에서 시키는 기초 코딩<li>
+</ul>
+</li>
+
+<li><a href="#">CsharpStudy</a>
+<ul>
+<li>C#을 배우는중 입니다.</li>
+<li>image-widget -윈도우에 미소녀들을..<li>
+<li>지뢰찾기 -winForm 지뢰찾기</li>
+</ul>
+</li>
+
+<li><a href="#">deep_learning</a>
+<ul>
+<li>인공신경망</li>
+<li>Q running</li>
+<li>Other...</li>
+</ul>
+</li>
+
+<hr/>
+<li>만든것은 없지만 공부하고 있습니다.
+<ul>
+<li>PYTHON
+<ul>
+<li>numpy<li>
+<li>tensorflow<li>
+<li>flot</li>
+</ul>
+</li>
+</ul>
+</li>
+
+
+</ul>
 
 <hr/>
 ### Development List
