@@ -4,8 +4,7 @@
 양영디지털고등학교에 재학중인 프로그래머를 희망하는 00년생 개발자 입니다.<br>
 다방면적으로 공부하는것을 좋아합니다.
 </p>
-
-<h2>studing</h2>
+<h2>Studying</h2>
 <ul>
   <li><a href="#">C_review</a>
     <ul>
@@ -33,16 +32,15 @@
         <ul>
           <li>numpy</li>
           <li>tensorflow</li>
-          <li>flot</li>
         </ul>
       </li>
     </ul>
   </li>
 </ul>
-### Development List
+<h2>Development List</h2>
 
 
-### activity
+<h2>activity</h2>
 <ul>
 <li>2016-04 ~ 2016-12 : IT 희망학교 4기 멘티 </li>
 <li>2017-04 ~ 진행중 : IT 희망학교 5기 멘토
@@ -65,11 +63,11 @@
 </ul>
 </li>
 </ul>
-### Language
-###### Main Language
+<h2>Language</h2>
+<h4>Main Language<h4>
 > JAVA
 
-###### Other
+<h4>Other<h4>
 > HTML5/CSS3
 > JAVASCRIPT
 > PHP
