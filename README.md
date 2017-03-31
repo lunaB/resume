@@ -8,18 +8,40 @@
   - 중학생때 공부했었던 C언어 프로젝트들을 잃어버려서 복습차원에서 만든 프로젝트들 또는 학교에서 시키는 기초 코딩
 - CsharpStudy
   - C#을 배우는중 입니다.
-    - image-widget : 윈도우에 미소녀들을..
-    - 지뢰찾기 : winForm 지뢰찾기
+    - image-widget 
+      - 윈도우에 미소녀들을..
+    - 지뢰찾기
+      - winForm gridView 연습용으로 가볍게만듬.
+      - 지뢰찾기 [보고서](http://ra20617.dothome.co.kr/codePDF/PDF/%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0%20%EB%82%98%EC%98%81%EC%B1%84.pdf)
 - deep_learning
   - 인공신경망
   - Q running
   - Other...
+- javaStudy
+  - AimBot
+    - 학교 1학년 겨울방학 숙제용 오버워치 에임핵
+    - AimBot [보고서](http://ra20617.dothome.co.kr/codePDF/PDF/AimBot%20%EB%82%98%EC%98%81%EC%B1%84.pdf)
+  - Graph
+    - 10분만에만든 동적그래프 생성기
+  - LiveTV
+    - 아프리카TV나 트위치같은 개인방송도구 중요 기능만 구현할 생각
+    - 서버구현 할차례
+  - Beauti JFrame (gui)
+    - 딱딱한 모양의 JFrame을 예쁘게 쓰기위한 목적으로 만듬
+    - 매번 코드를 짜기 귀찮기에 패키지로 만듬
+- Security-hack
+  - 막연하게 공부를위해 만듬
+  - fileReplace 
+    - 원하는 경로의 모든 내부파일들을 원하는 내용으로 바꾼다.
 <hr/>
-- 만든것은 없지만 공부하고 있습니다.
+- 올리지는 않았지만 공부하고 있습니다.
   - PYTHON
     - numpy
     - tensorflow
-    
+  - Ubuntu
+  - SQL
+    - ORACLE DB & PL Sql
+    - My Sql
 ## Development List
 - image-widget
   - C#으로 만든 widget
@@ -32,10 +54,24 @@
 - canvas2d_game
   - 만들어온 과정별로 따로 업로드해놓음
   - 객체지향적으로 코딩하지않아 중지됨.
-- javaStudy
-  - AimBot
-    - 학교 1학년 겨울방학 숙제용 오버워치 에임핵
-    - [보고서](http://ra20617.dothome.co.kr/codePDF/PDF/AimBot 나영채.pdf)
+- messenger
+  - 1학년 2학기  수행평가로 만든 메신저
+  - 정규식/SMTP/Stream 사용
+  - 인터페이스 최적화/메일인증번호/1:x 통신
+- indian_poker
+  - 1학년 1학기 자바 수행평가로 만든 게임
+  - THE지니어스 TV 프로그램의 전략게임중 인디언포커를 콘솔게임으로 만들었다.
+- tmax-project
+  - 개인 프로젝트
+    - 게임소개 
+  - 팀 프로젝트
+    - 이력서 제작사이트
+  - 모두 단시간에 가볍게 만들었으며, 당시 디자인을 잘 못했고, 제약사항이 있어서 완성도가 떨어짐.
+- 2048
+  - 2048 C_ver
+    - 2048 블럭게임을 C언어 콘솔게임으로 구현했다.
+  - 2048 webProject
+    - 2048 블럭게임을 웹으로 구현했다.
   
 ## activity
 - 2016-04 ~ 2016-12 : IT 희망학교 4기 멘티
