@@ -8,11 +8,11 @@
   - 중학생때 공부했었던 C언어 프로젝트들을 잃어버려서 복습차원에서 만든 프로젝트들 또는 학교에서 시키는 기초 코딩
 - CsharpStudy
   - C#을 배우는중 입니다.
-    - image-widget 
-      - 윈도우에 미소녀들을..
+    - image-widget
+      - 윈도우에 투명도있는 사진을 깔끔하게 띄워줍니다.
     - 지뢰찾기
-      - winForm gridView 연습용으로 가볍게만듬.
-      - 지뢰찾기 [보고서](http://ra20617.dothome.co.kr/codePDF/PDF/%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0%20%EB%82%98%EC%98%81%EC%B1%84.pdf)
+      - winForm gridView 연습용으로 가볍게만듬.
+      - 지뢰찾기[보고서](http://ra20617.dothome.co.kr/codePDF/PDF/%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0%20%EB%82%98%EC%98%81%EC%B1%84.pdf)
 - deep_learning
   - 인공신경망
   - Q running
@@ -33,7 +33,6 @@
   - 막연하게 공부를위해 만듬
   - fileReplace 
     - 원하는 경로의 모든 내부파일들을 원하는 내용으로 바꾼다.
-<hr/>
 - 올리지는 않았지만 공부하고 있습니다.
   - PYTHON
     - numpy
