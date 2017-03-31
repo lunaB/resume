@@ -38,39 +38,59 @@
   </li>
 </ul>
 <h2>Development List</h2>
-
+<ul>
+  <li>image-widget
+    <ul>
+      <li>C#으로 만든 widget
+        <ul>
+          <li>윈폼으로인한 안티엘리어싱 문제를 해결해야함.</li>
+        </ul>
+      </li>
+      <li>JAVA로 만든 widget
+        <ul>
+          <li>기능추가와 객체화 필요함.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>activity</h2>
 <ul>
-<li>2016-04 ~ 2016-12 : IT 희망학교 4기 멘티 </li>
-<li>2017-04 ~ 진행중 : IT 희망학교 5기 멘토
-<ul>
-<li>티맥스소프트와 서현청소년수련관이 만든 커리큘럼</li>
-<li>HTML / CSS / JAVASCRIPT</li>
-</ul>
-</li>
+  <li>2016-04 ~ 2016-12 : IT 희망학교 4기 멘티 </li>
+  <li>2017-04 ~ 진행중 : IT 희망학교 5기 멘토
+    <ul>
+      <li>티맥스소프트와 서현청소년수련관이 만든 커리큘럼</li>
+      <li>HTML / CSS / JAVASCRIPT</li>
+    </ul>
+  </li>
 
-<li>2016-05-27 ~ 2016-05-28 : 양디주최 1회 헤커톤
-<ul>
-<li>3인 안드로이드 부문출전</li>
-</ul>
-</li>
+  <li>2016-05-27 ~ 2016-05-28 : 양디주최 1회 헤커톤
+    <ul>
+      <li>3인 안드로이드 부문출전</li>
+    </ul>
+  </li>
 
-<li>16-09-26 ~ 16-09-30 : 글로벌 숙련기술 진흥원 모던 웹 디자인과정 114기
-<ul>
-<li>angularJS / lalabel / 기능(HTML/CSS/javascript/JQuery)</li>
-<li>숙소에서 javascript canvas 공부<li>
+  <li>16-09-26 ~ 16-09-30 : 글로벌 숙련기술 진흥원 모던 웹 디자인과정 114기
+    <ul>
+      <li>angularJS / lalabel / 기능(HTML/CSS/javascript/JQuery)</li>
+      <li>숙소에서 javascript canvas 공부<li>
+    </ul>
+  </li>
 </ul>
-</li>
-</ul>
+
 <h2>Language</h2>
 <h4>Main Language<h4>
-> JAVA
+<ul>
+  <li>JAVA</li>
+</ul>
 
 <h4>Other<h4>
-> HTML5/CSS3
-> JAVASCRIPT
-> PHP
-> C#
-> PYTHON
-> C
+<ul>
+  <li>HTML5/CSS3</li>
+  <li>JAVASCRIPT</li>
+  <li>PHP</li>
+  <li>C#</li>
+  <li>PYTHON</li>
+  <li>C</li>
+</ul>
