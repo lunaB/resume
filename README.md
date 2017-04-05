@@ -12,37 +12,37 @@
 	- 지뢰찾기
 		- winForm gridView 연습용으로 가볍게만듬.
 		- 지뢰찾기[보고서](http://ra20617.dothome.co.kr/codePDF/PDF/%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0%20%EB%82%98%EC%98%81%EC%B1%84.pdf)
-	- deep_learning
-		- 인공신경망
-		- Q running
-		- Other...
-	- javaStudy
-		- AimBot
-			- 학교 1학년 겨울방학 숙제용 오버워치 에임핵
-			- AimBot [보고서](http://ra20617.dothome.co.kr/codePDF/PDF/AimBot%20%EB%82%98%EC%98%81%EC%B1%84.pdf)
-		- Graph
-			- 10분만에만든 동적그래프 생성기
-		- LiveTV
-			- 아프리카TV나 트위치같은 개인방송도구 중요 기능만 구현할 생각
-			- 서버구현 할차례
-		- Beauti JFrame gui
-			- 딱딱한 모양의 JFrame을 예쁘게 쓰기위한 목적으로 만듬
-			- 매번 코드를 짜기 귀찮기에 패키지로 만듬
+- deep_learning
+	- 인공신경망
+	- Q running
+	- Other...
+- javaStudy
+	- AimBot
+		- 학교 1학년 겨울방학 숙제용 오버워치 에임핵
+		- AimBot [보고서](http://ra20617.dothome.co.kr/codePDF/PDF/AimBot%20%EB%82%98%EC%98%81%EC%B1%84.pdf)
+	- Graph
+		- 10분만에만든 동적그래프 생성기
+	- LiveTV
+		- 아프리카TV나 트위치같은 개인방송도구 중요 기능만 구현할 생각
+		- 서버구현 할차례
+	- Beauti JFrame gui
+		- 딱딱한 모양의 JFrame을 예쁘게 쓰기위한 목적으로 만듬
+		- 매번 코드를 짜기 귀찮기에 패키지로 만듬
 - Security-hack
 	- 막연하게 공부를위해 시작	
 	- fileReplace 
 		- 원하는 경로의 모든 내부파일들을 원하는 내용으로 바꾼다.
-		- 올리지는 않았지만 공부하고 있습니다.
+- 올리지는 않았지만 공부하고 있습니다.
 	- PYTHON
-		- numpy
-		- tensorflow
+		- numpy		- tensorflow
 	- Ubuntu
 	- SQL
 		- ORACLE DB & PL SQL
 		- My SQL
 ## Development List
 - image-widget
-	- C#으로 만든 widget
+	- 윈도우 꾸미기용 widget
+	- C#, JAVA 
 	- 윈폼으로인한 안티엘리어싱 문제를 해결해야함.
 - JAVA로 만든 widget
 	- 기능추가와 객체화 필요함.
