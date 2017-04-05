@@ -79,7 +79,7 @@
 	- angularJS / lalabel / 기능 HTML/CSS/javascript/JQuery
 	- 숙소에서 javascript canvas 공부
 - 2016 : SK STAC
-	- 게임부문 예선 2차 탈락. 
+	- 게임부문 발표 탈락. 
 	- VR+좀비+서바이벌
 ## Language
 - Main Language
