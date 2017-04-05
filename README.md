@@ -7,8 +7,6 @@
 	- 중학생때 공부했었던 C언어 프로젝트 파일들을 잃어버려서 복습차원에서 만든 프로젝트들 또는 학교에서 시키는 기초 코딩
 - CsharpStudy
 	- C#을 배우는중 입니다.
-	- image-widget
-		- 윈도우에 투명도있는 사진을 깔끔하게 띄워줍니다.
 	- 지뢰찾기
 		- winForm gridView 연습용으로 가볍게만듬.
 		- 지뢰찾기[보고서](http://ra20617.dothome.co.kr/codePDF/PDF/%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0%20%EB%82%98%EC%98%81%EC%B1%84.pdf)
