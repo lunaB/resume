@@ -4,7 +4,7 @@
 취미로는 이것저것 만들어보거나 여기저기 api를 붙여버립니다. 혹은 신기술을 공부해 보려고 공부중입니다.
 ## Studying
 - C_review
-	- 중학생때 공부했었던 C언어 프로젝트 파일들을 잃어버려서 복습차원에서 만든 프로젝트들 또는 학교에서 시키는 기초 코딩
+	- 중학생때 공부했었던 C언어 프로젝트 파일들을 잃어버려 복습용
 - CsharpStudy
 	- C#을 배우는중 입니다.
 	- 지뢰찾기
@@ -12,8 +12,7 @@
 		- 지뢰찾기[보고서](http://ra20617.dothome.co.kr/codePDF/PDF/%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0%20%EB%82%98%EC%98%81%EC%B1%84.pdf)
 - deep_learning
 	- 인공신경망
-	- Q running
-	- Other...
+	- tensorflow
 - javaStudy
 	- AimBot
 		- 학교 1학년 겨울방학 숙제용 오버워치 에임핵
@@ -30,30 +29,28 @@
 	- 막연하게 공부를위해 시작	
 	- fileReplace 
 		- 원하는 경로의 모든 내부파일들을 원하는 내용으로 바꾼다.
-- 올리지는 않았지만 공부하고 있습니다.
-	- PYTHON
-		- numpy		- tensorflow
+- 준비중(공부중).
 	- Ubuntu
-	- SQL
-		- ORACLE DB & PL SQL
-		- My SQL
+	- Oracle PL SQL
 ## Development List
+- webtoon_best_comment_search
+	- 네이버웹툰 베스트 댓글 알리미
+	- 프로토타입 개발완료
 - image-widget
-	- 윈도우 꾸미기용 widget
+	- 데스크탑 화면 꾸미기용 image widget
 	- C#, JAVA 
-	- 윈폼으로인한 안티엘리어싱 문제를 해결해야함.
-- JAVA로 만든 widget
 	- 기능추가와 객체화 필요함.
 - CcharpStudy
 	- 지뢰찾기
 	- 인터페이스 상향 필요함.
 - canvas2d_game
+	- 자바스크립트 공부용 탄막피하기 게임
 	- 만들어온 과정별로 따로 업로드해놓음
 	- 객체지향적으로 코딩하지않아 중지됨.
 - messenger
-	- 1학년 2학기  수행평가로 만든 메신저
+	- 1학년 2학기 수행평가로 만든 메신저
 	- 정규식/SMTP/Stream 사용
-	- 인터페이스 최적화/메일인증번호/1:x 통신
+	- 윈폼 인터페이스 수정 / 메일인증번호/1:x 통신
 - indian_poker
 	- 1학년 1학기 자바 수행평가로 만든 게임
 	- THE지니어스 TV 프로그램의 전략게임중 인디언포커를 콘솔게임으로 만들었다.
@@ -73,13 +70,13 @@
 - 2017-04 ~ 진행중 : IT 희망학교 5기 멘토
 	- 티맥스소프트와 서현청소년수련관이 만든 커리큘럼
 	- HTML / CSS / JAVASCRIPT
-- 2016-05-27 ~ 2016-05-28 : 양디주최 1회 헤커톤
-	- 3인 안드로이드 부문출전
+- 2016-05-27 ~ 2016-05-28 : 양디주최 헤커톤
+	- 3인 안드로이드 부문
 - 16-09-26 ~ 16-09-30 : 글로벌 숙련기술 진흥원 모던 웹 디자인과정 114기
 	- angularJS / lalabel / 기능 HTML/CSS/javascript/JQuery
 	- 숙소에서 javascript canvas 공부
 - 2016 : SK STAC
-	- 게임부문 발표 탈락. 
+	- 게임부문 2차 탈락. 
 	- VR+좀비+서바이벌
 ## Language
 - Main Language
