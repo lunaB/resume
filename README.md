@@ -33,6 +33,9 @@
 	- Ubuntu
 	- Oracle PL SQL
 ## Development List
+- emotional-analysis-rest-api
+	- 감성 언어 사전 구축
+	- 문장 긍부정 판별 restful api
 - webtoon_best_comment_search
 	- 네이버웹툰 베스트 댓글 알리미
 	- 프로토타입 개발완료
