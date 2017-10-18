@@ -1,6 +1,6 @@
 # 나영채 [NA YOUNG CHAE]
 ## Introduce
-양영디지털고등학교에 재학중인 프로그래머를 희망하는 00년생 학생개발자 이면서 다방면적으로 공부하는것을 좋아합니다.
+양영디지털고등학교에 재학중인 프로그래머를 희망하는 00년생 학생이면서 다방면적으로 공부하는것을 좋아합니다.
 신기술에 관심을 갖고 항상 공부하고 있습니다.
 ## Studying
 - C_review
@@ -36,20 +36,15 @@
 - emotional-analysis-rest-api
 	- 감성 언어 사전 구축
 	- 문장 긍부정 판별 restful api
-- webtoon_best_comment_search
-	- 네이버웹툰 베스트 댓글 알리미
-	- 프로토타입 개발완료
 - image-widget
 	- 데스크탑 화면 꾸미기용 image widget
 	- C#, JAVA 
-	- 기능추가와 객체화 필요함.
 - CcharpStudy
 	- 지뢰찾기
-	- 인터페이스 상향 필요함.
 - canvas2d_game
 	- 자바스크립트 공부용 탄막피하기 게임
 	- 만들어온 과정별로 따로 업로드해놓음
-	- 객체지향적으로 코딩하지않아 중지됨.
+	- 객체지향적으로 코딩하지않음
 - messenger
 	- 1학년 2학기 수행평가로 만든 메신저
 	- 정규식/SMTP/Stream 사용
@@ -68,7 +63,13 @@
 		- 2048 블럭게임을 C언어 콘솔게임으로 구현했다.
 	- 2048 webProject
 		- 2048 블럭게임을 웹으로 구현했다.
-## activity
+## Developing List
+- webtoon_best_comment_search
+	- 네이버웹툰 베스트 댓글 알리미
+	- 프로토타입 개발 후 중지
+- ai_buddy
+	- 인공신경망 블럭코딩에디터 다인 개발
+## Activity
 - 2016-04 ~ 2016-12 : IT 희망학교 4기 멘티
 - 2017-04 ~ 진행중 : IT 희망학교 5기 멘토
 	- 티맥스소프트와 서현청소년수련관이 만든 커리큘럼
@@ -81,13 +82,12 @@
 - 2016 : SK STAC
 	- 게임부문 2차 탈락. 
 	- VR+좀비+서바이벌
+- 2017 : SK STAC+
+	- 인공지능부문 결선3위 수상
+	- 패션리더
 ## Language
-- Main Language
-	- JAVA
-- Other
-	- HTML5/CSS3
-	- JAVASCRIPT
-	- PHP
-	- C#
-	- PYTHON
-	- C
+- JAVA
+- HTML5/CSS3
+- JAVASCRIPT
+- PHP
+- PYTHON
