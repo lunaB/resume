@@ -6,46 +6,51 @@
 - C_review
 	- 중학교 
 - CsharpStudy
-	- C#을 배우는중 입니다.
+	- C#을 공부용 레파지토리
 	- 지뢰찾기
-		- winForm gridView 연습용으로 가볍게만듬.
+		- WinForm GridView 연습용으로 가볍게만듬.
 		- 지뢰찾기[보고서](http://ra20617.dothome.co.kr/codePDF/PDF/%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0%20%EB%82%98%EC%98%81%EC%B1%84.pdf)
-- deep_learning
-	- 인공신경망
+- Deep_learning
+    - 머신러닝 공부
+	- 머신러닝에 쓰이는 통계/분석 알고리즘 
 	- tensorflow
-- javaStudy
+    - 인공신경망
+- JavaStudy
+    - 자바공부용 레파지토리 
 	- AimBot
-		- 학교 1학년 겨울방학 숙제용 오버워치 에임핵
+		- 학교 1학년 겨울방학 숙제용 오버워치 에임핵 (픽셀 인식 방식의 간단한 핵이다.)
 		- AimBot [보고서](http://ra20617.dothome.co.kr/codePDF/PDF/AimBot%20%EB%82%98%EC%98%81%EC%B1%84.pdf)
 	- Graph
-		- 10분만에만든 동적그래프 생성기
+		- 10분만에만든 동적그래프 생성기 (Swing)
 	- LiveTV
 		- 아프리카TV나 트위치같은 개인방송도구 중요 기능만 구현할 생각
-		- 서버구현 할차례
-	- Beauti JFrame gui
+		- 서버구현에서 에러가 나있는 상태다.
+	- Beauti JFrame Gui
 		- 딱딱한 모양의 JFrame을 예쁘게 쓰기위한 목적으로 만듬
 		- 매번 코드를 짜기 귀찮기에 패키지로 만듬
+        - 컨셉은 윈도우10과 맥디자인 섞는것 이였다.
 - Security-hack
-	- 막연하게 공부를위해 시작	
+	- 해킹관련 공부를위해 만든 레파지토리
+    - 올리는 방식을 바꿀 예정이다. (안하는 상태)
 	- fileReplace 
 		- 원하는 경로의 모든 내부파일들을 원하는 내용으로 바꾼다.
-- 준비중(공부중).
+- 준비중(공부중)
 	- Ubuntu
-	- Oracle PL SQL
 ## Development List
-- emotional-analysis-rest-api
-	- 감성 언어 사전 구축
+- Emotional-analysis-rest-api
+	- 감성 언어 사전 구축 (DB)
 	- 문장 긍부정 판별 restful api
-- image-widget
-	- 데스크탑 화면 꾸미기용 image widget
-	- C#, JAVA 
+- Image-widget
+	- 데스크탑 화면 꾸미기용 사진 위젯
+	- C#, JAVA 버전으로 모두만듬
 - CcharpStudy
 	- 지뢰찾기
-- canvas2d_game
-	- 자바스크립트 공부용 탄막피하기 게임
+- Canvas2d_game
+	- 자바스크립트 입문프로젝트
+    - 탄막피하기 게임
 	- 만들어온 과정별로 따로 업로드해놓음
 	- 객체지향적으로 코딩하지않음
-- messenger
+- Messenger
 	- 1학년 2학기 수행평가로 만든 메신저
 	- 정규식/SMTP/Stream 사용
 	- 윈폼 인터페이스 수정 / 메일인증번호/1:x 통신
@@ -64,27 +69,43 @@
 	- 2048 webProject
 		- 2048 블럭게임을 웹으로 구현했다.
 ## Developing List
-- webtoon_best_comment_search
+- Webtoon_best_comment_search
 	- 네이버웹툰 베스트 댓글 알리미
 	- 프로토타입 개발 후 중지
-- ai_buddy
+- Ai_buddy
 	- 인공신경망 블럭코딩에디터 다인 개발
+- SQL-STAFF
+    - 산학일체형 도제회사인 콤텍-INZENT에서 만드는 오픈소스 프로젝트
 ## Activity
 - 2016-04 ~ 2016-12 : IT 희망학교 4기 멘티
-- 2017-04 ~ 진행중 : IT 희망학교 5기 멘토
-	- 티맥스소프트와 서현청소년수련관이 만든 커리큘럼
+    - 티맥스소프트와 서현청소년수련관이 만든 커리큘럼
 	- HTML / CSS / JAVASCRIPT
+    - 매주 토요일 멘티활동
 - 2016-05-27 ~ 2016-05-28 : 양디주최 헤커톤
 	- 3인 안드로이드 부문
 - 16-09-26 ~ 16-09-30 : 글로벌 숙련기술 진흥원 모던 웹 디자인과정 114기
 	- angularJS / lalabel / 기능 HTML/CSS/javascript/JQuery
-	- 숙소에서 javascript canvas 공부
-- 2016 : SK STAC
+    - 웹디자인 기능공부
+	- 숙소에서 Javascript Canvas 공부 repository(canvas2d game)
+- 2016 ~ 2016... : SK STAC
 	- 게임부문 2차 탈락. 
 	- VR+좀비+서바이벌
-- 2017 : SK STAC+
-	- 인공지능부문 결선3위 수상
-	- 패션리더
+- 2017-04 ~ 진행중 : IT 희망학교 5기 멘토
+	- 티맥스소프트와 서현청소년수련관이 만든 커리큘럼
+	- HTML / CSS / JAVASCRIPT
+    - 매주 토요일 멘토활동
+- 2017-11-04 : Microsoft AI 세미나
+- 2017-11-04 ~ 2017-11-05 : 하이톤 1st
+    - 특성화고/마이스터고 고등학생 주최 헤커톤
+    - SW 마에스트로 건물에서 진행
+    - 팀빌딩18팀(3~4인)/3팀수상+1인기상
+    - 생활분야 수상
+- 2017 ~ 2017-10 : SK STAC+
+    - 팀명 패션리더
+	- 인공지능부문 최우수 수상 (1위)
+    - 수상식 2017-11-08 SK본사
+- 2017-11-12 : GDG DevFest Session 2017 Seoul
+    - ...
 ## Language
 - JAVA
 - HTML5/CSS3
