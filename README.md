@@ -104,7 +104,7 @@
     - 팀명 패션리더
 	- 인공지능부문 최우수 수상 (1위)
     - 수상식 2017-11-08 SK본사
-- 2017-11-12 : GDG DevFest Session 2017 Seoul
+- 2017-11-19 : GDG DevFest Session 2017 Seoul
     - ...
 ## Language
 - JAVA
