@@ -95,11 +95,12 @@
 	- HTML / CSS / JAVASCRIPT
     - 매주 토요일 멘토활동
 - 2017-11-04 : Microsoft AI 세미나
-- 2017-11-04 ~ 2017-11-05 : 하이톤 1st
+- 2017-11-04 ~ 2017-11-05 : HighThon 1st
     - 특성화고/마이스터고 고등학생 주최 헤커톤
-    - SW 마에스트로 건물에서 진행
-    - 팀빌딩18팀(3~4인)/3팀수상+1인기상
-    - 생활분야 수상
+    - 팀빌딩 : 3~4명 18팀 (생활/게임/IOT)
+    - 수상 : 3팀수상+1인기상
+    - 돈까스팀 : 양영디지털고등학교3명(개발자) 대전소프트웨어고등학교1명(디자이너) 
+    - 생활분야 수상
 - 2017 ~ 2017-10 : SK STAC+
     - 팀명 패션리더
 	- 인공지능부문 최우수 수상 (1위)
@@ -107,8 +108,10 @@
 - 2017-11-19 : GDG DevFest Session 2017 Seoul
     - ...
 ## Language
-- JAVA
-- HTML5/CSS3
-- JAVASCRIPT
-- PHP
-- PYTHON
+- JAVA ( JSP/SPRING )
+- HTML5/CSS3 
+- JAVASCRIPT ( JQuery, React )
+- PHP ( PDO )
+- PYTHON ( Tensorflow, PyQt5 )
+- C# ( WinForm... )
+- C/C++ ( Console... )
