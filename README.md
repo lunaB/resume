@@ -106,7 +106,12 @@
 	- 인공지능부문 최우수 수상 (1위)
     - 수상식 2017-11-08 SK본사
 - 2017-11-19 : GDG DevFest Session 2017 Seoul
-    - ...
+    - session (13:00 ~ 17:20)
+    	- Why Typescript with Clean Architecture (정유진)
+	- MVC부터 MVVM, 단방향 데이터 흐름까지 (김용욱)
+	- 디자이너와 웹 개발자를 위한 d3.js 기초 (강규영)
+	- 리엑트와 장고로 만드는 Progressive Web App (진유림)
+	- Github와 CloudFlare를 이용한 무료 고성능 웹 어플리케이션 호스팅
 ## Language
 - JAVA ( JSP/SPRING )
 - HTML5/CSS3 
