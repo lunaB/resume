@@ -1,10 +1,102 @@
 # 나영채 [NA YOUNG CHAE]
 ## Introduce
-세종대학교 19학번에 재학중인 
+세종대학교 생명과학대학 생명시스템학부 19학번 나영채입니다. 취미로 소프트웨어 프로그래밍을 하고있습니다. 인공생명체를 만들게 될 수 있을까요? 
 
-## Studying
-- C_review
-	- 중학교 
+## TimeLine
+- 중학교 1학년
+	- 스크래치 개발
+- 중학교 2학년
+	- C언어 기초문법과 간단한 Window API 공부
+- 중학교 3학년
+	- C언어 알고리즘 공부
+	- JAVA 기초문법 공부
+	- JAVA 마인크래프트 플러그인/모드 개발
+- 고등학교 1학년
+	- HTML/CSS/JS
+		- 네이버, 싸이월드, 네이트판 카피가능.
+		- Bootstrap, Jquery, Angular(기초)
+	- PHP
+		- 게시판, 댓글, 대댓글, 로그인, 회원가입, 사진첨부, 파일첨부, 관리자페이지 등 기능개발
+		- 조회수, 댓글좋아요, 쓰던글 저장 등 세부기능 개발
+		- lalabel(기초) 공부
+	- DATABASE
+		- Mysql
+		- Oracle DB
+			- PL SQL(기초) 공부
+		- Query
+			- function, format, subquery, join, group, having, order, ... 등등 문법 공부
+	- C#
+		- C# 기초문법 공부
+		- WinForm 프로그래밍 공부
+	- JAVA
+		- Spring Legacy (MVC)
+			- 간단한 게시판 개발 공부
+			- taglib, jsp, mybatis, mysql 등을 이용한 개발 공부
+		- Socket 통신
+			- 카카오톡 몇가지 기능 카피 가능
+			- 멀티 게임 개발 
+		- JavaFX, Swing 응용 공부
+		- 내부 클래스 공부
+			- EX) File, Robot
+		- 알고리즘 공부
+	- Raspberry Pi
+		- 웹서버 구축
+		- 데이터베이스 설치
+	- Python
+		- 기초문법 공부
+		- 알고리즘 공부
+	- 웹보안
+		- DB Injection
+	- 정규식
+		- 기초문법 공부
+	- Photoshop
+		- 웹디자인, 사진편집
+	- 정보처리기능사, 컴퓨터 활용능력, 리눅스마스터 자격증공부
+- 고등학교 2학년
+	- HTML/CSS/JS
+		- Bulma, React(기초)
+	- JAVA
+		- Spring Legacy (MVC)
+			- Maven, JAVA(7~9), MySql
+			- MVC, AOP 이론 공부
+			- Filter, interceptor ..등 내장기능 공부
+			- 다중파일 업로드, 폴더 업로드
+			- Spring Security (CSRF, 권한설정)
+			- Restful API 개발
+		- API 수집
+	- Unity
+		- 간단한 슈팅게임 개발
+		- TOP view 총게임 개발
+	- Python
+		- 크롤링, selenium, phantom.js
+		- Numpy, Matplotlib
+		- Django(기초) 공부
+		- Tensorflow(기초)
+	- 알고리즘
+		- 인터프리터 개발
+	- AI
+		- 회귀
+		- 신경망 완전 기초 (CNN, ANN, LSTM)
+		- 군집화 알고리즘 (K-Mean, DBSCAN ...등)
+	- 웹디자인기능사 자격증 공부
+- 고등학교 3학년
+	- HTML/CSS/JS
+		- 마크엔진 개발
+	- JAVA
+		- Spring Legacy (MVC)
+			- 위키엔진 개발
+	- 수능공부
+- 대학교 1학년
+	- 웹보안
+		- 리캡챠
+		- HTTPS
+		- 트래픽 낭비 차단
+		- 웹로그분석
+	- Python
+		- Discord API 사용
+	- Spring Boot
+		- JPA
+## Study
 - CsharpStudy
 	- C#을 공부용 레파지토리
 	- 지뢰찾기
@@ -37,6 +129,9 @@
 - 준비중(공부중)
 	- Ubuntu
 ## Development List
+- 양디위키 (yywiki)
+	- 활성상태 : FALSE (서버 트래픽량이 작아서 서버가 견디지 못하여 잠깐 내렸습니다.)
+	- [링크](http://yywiki.lunab.xyz)
 - Emotional-analysis-rest-api
 	- 감성 언어 사전 구축 (DB)
 	- 문장 긍부정 판별 restful api
