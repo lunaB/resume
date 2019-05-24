@@ -14,6 +14,7 @@
 - 고등학교 1학년
 	- HTML/CSS/JS
 		- 네이버, 싸이월드, 네이트판 카피가능.
+		- 비동기 처리
 		- Bootstrap, Jquery, Angular(기초)
 	- PHP
 		- 게시판, 댓글, 대댓글, 로그인, 회원가입, 사진첨부, 파일첨부, 관리자페이지 등 기능개발
@@ -27,7 +28,8 @@
 			- function, format, subquery, join, group, having, order, ... 등등 문법 공부
 	- C#
 		- C# 기초문법 공부
-		- WinForm 프로그래밍 공부
+		- WinForm 프로그래밍, 컴포넌트 공부
+		- 음성엔진
 	- JAVA
 		- Spring Legacy (MVC)
 			- 간단한 게시판 개발 공부
@@ -40,6 +42,7 @@
 			- EX) File, Robot
 		- 알고리즘 공부
 	- Raspberry Pi
+		- Ubuntu
 		- 웹서버 구축
 		- 데이터베이스 설치
 	- Python
@@ -54,7 +57,9 @@
 	- 정보처리기능사, 컴퓨터 활용능력, 리눅스마스터 자격증공부
 - 고등학교 2학년
 	- HTML/CSS/JS
-		- Bulma, React(기초)
+		- 반응형 웹 개발
+		- Bulma, React(기초), D3.JS
+		- canvas 개발
 	- JAVA
 		- Spring Legacy (MVC)
 			- Maven, JAVA(7~9), MySql
@@ -63,71 +68,46 @@
 			- 다중파일 업로드, 폴더 업로드
 			- Spring Security (CSRF, 권한설정)
 			- Restful API 개발
+			- 웹로그분석
+			- Ehcache (한번구현)
 		- API 수집
 	- Unity
 		- 간단한 슈팅게임 개발
 		- TOP view 총게임 개발
 	- Python
 		- 크롤링, selenium, phantom.js
+		- PyQt5
 		- Numpy, Matplotlib
 		- Django(기초) 공부
+		- Numpy 다층신경망 
 		- Tensorflow(기초)
 	- 알고리즘
-		- 인터프리터 개발
+		- interpreter
+		- Case base reasoning (사례기반추론)
 	- AI
-		- 회귀
+		- 회귀분석 기초 공부
 		- 신경망 완전 기초 (CNN, ANN, LSTM)
 		- 군집화 알고리즘 (K-Mean, DBSCAN ...등)
 	- 웹디자인기능사 자격증 공부
 - 고등학교 3학년
 	- HTML/CSS/JS
-		- 마크엔진 개발
+		- 마크문법엔진 개발
 	- JAVA
 		- Spring Legacy (MVC)
 			- 위키엔진 개발
-	- 수능공부
+	- 수능공부...
 - 대학교 1학년
 	- 웹보안
 		- 리캡챠
-		- HTTPS
-		- 트래픽 낭비 차단
-		- 웹로그분석
+		- 과한 트래픽 차단
 	- Python
-		- Discord API 사용
+		- Discord API 챗봇 개발
+		- Kaggle 데이터분석 연습
+		- Catboost (사용)
+		- Pandas (공부 하는중)
 	- Spring Boot
 		- JPA
-## Study
-- CsharpStudy
-	- C#을 공부용 레파지토리
-	- 지뢰찾기
-		- WinForm GridView 연습용으로 가볍게만듬.
-		- 지뢰찾기[보고서](http://ra20617.dothome.co.kr/codePDF/PDF/%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0%20%EB%82%98%EC%98%81%EC%B1%84.pdf)
-- Deep_learning
-    - 머신러닝 공부
-	- 머신러닝에 쓰이는 통계/분석 알고리즘 
-	- tensorflow
-    - 인공신경망
-- JavaStudy
-    - 자바공부용 레파지토리 
-	- AimBot
-		- 학교 1학년 겨울방학 숙제용 오버워치 에임핵 (픽셀 인식 방식의 간단한 핵이다.)
-		- AimBot [보고서](http://ra20617.dothome.co.kr/codePDF/PDF/AimBot%20%EB%82%98%EC%98%81%EC%B1%84.pdf)
-	- Graph
-		- 10분만에만든 동적그래프 생성기 (Swing)
-	- LiveTV
-		- 아프리카TV나 트위치같은 개인방송도구 중요 기능만 구현할 생각
-		- 서버구현에서 에러가 나있는 상태다.
-	- Beauti JFrame Gui
-		- 딱딱한 모양의 JFrame을 예쁘게 쓰기위한 목적으로 만듬
-		- 매번 코드를 짜기 귀찮기에 패키지로 만듬
-        - 컨셉은 윈도우10과 맥디자인 섞는것 이였다.
-- Security-hack
-	- 해킹관련 공부를위해 만든 레파지토리
-    - 올리는 방식을 바꿀 예정이다. (안하는 상태)
-	- fileReplace 
-		- 원하는 경로의 모든 내부파일들을 원하는 내용으로 바꾼다.
-- 준비중(공부중)
-	- Ubuntu
+
 ## Development List
 - 양디위키 (yywiki)
 	- 활성상태 : FALSE (서버 트래픽량이 작아서 서버가 견디지 못하여 잠깐 내렸습니다.)
@@ -227,7 +207,7 @@
 - 2016 TMAX IT희망학교 5기 멘토 \[1,000,000\]
 ## Language
 - JAVA ( JSP, SPRING, SPRING BOOT )
-- HTML5/CSS3 + ( Bootstrap )
+- HTML5/CSS3 + ( Bootstrap, Bulma )
 - JAVASCRIPT + ( JQuery, React )
 - PHP ( PDO )
 - PYTHON ( Tensorflow, PyQt5 )
