@@ -86,7 +86,7 @@
 		- Case base reasoning (사례기반추론)
 	- AI
 		- 회귀분석 기초 공부
-		- 신경망 완전 기초 (CNN, ANN, LSTM)
+		- 신경망(CNN, ANN, LSTM) 기초 이론
 		- 군집화 알고리즘 (K-Mean, DBSCAN ...등)
 	- 웹디자인기능사 자격증 공부
 - 고등학교 3학년
