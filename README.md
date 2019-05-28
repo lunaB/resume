@@ -2,6 +2,12 @@
 ## Introduce
 세종대학교 생명과학대학 생명시스템학부 19학번 나영채입니다. 취미로 소프트웨어 프로그래밍을 하고있습니다. 인공생명체를 만들게 될 수 있을까요? 
 
+## Skill Summary
+- Spring legacy project
+- HTML/CSS/JS + Jquery/Ajax/Bootstrap
+- Mysql/Oracle DB
+- Python + Pandas/Matplotlib/Keras/PyQt
+
 ## TimeLine
 - 중학교 1학년
 	- 스크래치 개발
@@ -90,12 +96,16 @@
 		- 군집화 알고리즘 (K-Mean, DBSCAN ...등)
 	- 웹디자인기능사 자격증 공부
 - 고등학교 3학년
-	- HTML/CSS/JS
-		- 마크문법엔진 개발
-	- JAVA
-		- Spring Legacy (MVC)
-			- 위키엔진 개발
-	- 수능공부...
+	- 3월 이전
+		- HTML/CSS/JS
+			- 마크문법엔진 개발
+		- JAVA
+			- Spring Legacy (MVC)
+				- 위키엔진 개발
+	- 2월 ~ 11월 수능공부...
+	- 12월 이후
+		- Spring Boot
+			- JPA
 - 대학교 1학년
 	- 웹보안
 		- 리캡챠
@@ -105,52 +115,29 @@
 		- Kaggle 데이터분석 연습
 		- Catboost (사용)
 		- Pandas (공부 하는중)
-	- Spring Boot
-		- JPA
+		- Keras (공부 하는중)
 
-## Development List
+## Service List
 - 양디위키 (yywiki)
 	- 활성상태 : FALSE (서버 트래픽량이 작아서 서버가 견디지 못하여 잠깐 내렸습니다.)
 	- [링크](http://yywiki.lunab.xyz)
 - Emotional-analysis-rest-api
 	- 감성 언어 사전 구축 (DB)
 	- 문장 긍부정 판별 restful api
-- Image-widget
-	- 데스크탑 화면 꾸미기용 사진 위젯
-	- C#, JAVA 버전으로 모두만듬
-- CcharpStudy
-	- 지뢰찾기
 - Canvas2d_game
 	- 자바스크립트 입문프로젝트
-    - 탄막피하기 게임
+    	- 탄막피하기 게임
 	- 만들어온 과정별로 따로 업로드해놓음
-	- 객체지향적으로 코딩하지않음
 - Messenger
 	- 1학년 2학기 수행평가로 만든 메신저
 	- 정규식/SMTP/Stream 사용
 	- 윈폼 인터페이스 수정 / 메일인증번호/1:x 통신
-- indian_poker
-	- 1학년 1학기 자바 수행평가로 만든 게임
-	- THE지니어스 TV 프로그램의 전략게임중 인디언포커를 콘솔게임으로 만들었다.
-- tmax-project
-	- 개인 프로젝트
-		- 게임소개 사이트
-	- 팀 프로젝트
-		- 이력서 제작사이트
-	- 모두 단시간에 가볍게 만들었으며, 당시 디자인을 잘 못했고, 제약사항이 있어서 완성도가 떨어짐.
 - 2048
 	- 2048 C_ver
 		- 2048 블럭게임을 C언어 콘솔게임으로 구현했다.
 	- 2048 webProject
 		- 2048 블럭게임을 웹으로 구현했다.
-## Developing List
-- Webtoon_best_comment_search
-	- 네이버웹툰 베스트 댓글 알리미
-	- 프로토타입 개발 후 중지
-- Ai_buddy
-	- 인공신경망 블럭코딩에디터 다인 개발
-- SQL-STAFF
-    - 산학일체형 도제회사인 콤텍-INZENT에서 만드는 오픈소스 프로젝트
+
 ## Activity
 - 2016-04 ~ 2016-12 : IT 희망학교 4기 멘티
     - 티맥스소프트와 서현청소년수련관이 만든 커리큘럼
@@ -172,19 +159,22 @@
 	- HTML / CSS / JAVASCRIPT
     - 매주 토요일 멘토활동
 - 2017-11-04 : Microsoft AI 세미나
+	- Microsoft Azure의 사용방안과 현재 AI의 발전 전반에 대하여 다룬 내용이였다.
 - 2017-11-04 ~ 2017-11-05 : HighThon 1st
     - 특성화고/마이스터고 고등학생 주최 헤커톤
     - 팀빌딩 : 3~4명 18팀 (생활/게임/IOT)
     - 수상 : 3팀수상+1인기상
     - 돈까스팀 : 양영디지털고등학교3명(개발자) 대전소프트웨어고등학교1명(디자이너) 
+    - 주제 : 트럼프
+    - 개발내용 : 트럼럼프와 힐러리의 대선구도를 트럼프의 SNS Text와 Image를 Azure를 이용하여 트럼프의 감정상태와 그 원인을 키워드로 분석하고 웹사이트와 그래프로 시각화하여 보여주는 프로젝트
     - 생활분야 수상
 - 2017 ~ 2017-10 : SK STAC+
     - 팀명 : 패션리더(4인팀)
 	- 인공지능부문 최우수 수상 (1위)
-    - 수상식 2017-11-08 SK본사
+	- 개발내용 : PHP를 이용한 웹사이트와 SK의 누구 디바이스를 이용하여 계절과 날씨 유행과 금전적 수준에 기반한 실시간 옷추천 서비스이다. 날짜별 옷추천에 지나지않고 옷들의 쇼핑데이터로 합리적인 구매를 할 수 있도록 도와주며 SK의 누구 디바이스에게 구두의 명령으로 패션리더 웹사이트에서 추천정보를 전송받을수도 있습니다.
+    - 시상식 : 2017-11-08 SK본사
 - 2017-11-19 : GDG DevFest Session 2017 Seoul
-    - session (13:00 ~ 17:20)
-    	- Why Typescript with Clean Architecture (정유진)
+    - Why Typescript with Clean Architecture (정유진)
 	- MVC부터 MVVM, 단방향 데이터 흐름까지 (김용욱)
 	- 디자이너와 웹 개발자를 위한 d3.js 기초 (강규영)
 	- 리엑트와 장고로 만드는 Progressive Web App (진유림)
@@ -195,16 +185,30 @@
 - 2018-01-20 ~ 2018-01-21 : 0xd happckathon 1회 (2018)
 	- 주제 : 바다
 	- 개발 : 요트 대여 및 공유 서비스 반응형 웹 어플리케이션, 요트 자격증 사진 인식
-- 2018-02-11 ~ 2018-02-13
+- 2018-02-10 ~ 2018-02-11 : HighThon 2nd
+	- 특성화고/마이스터고 고등학생 주최 헤커톤
+	- 분야 : (생활/게임/IOT) 
+	- 팀 : 양영디지털고등학교2명(개발자 2명), 대전소프트웨어고등학교2명(개발자 1명, 디자이너 1명)
+    - 주제 : 졸업
+	- 개발내용 : 고등학교에 재학중인 유저들이 친구한테 차마 말못했던 비밀을 졸업후 폭로(?) 해주는 서비스로 다른 SNS와 같이 친구를 태그해서 공개범위를 제한하여 졸업후 게시글을 보게될 친구들을 태그할수 있으며 학교마다의 졸업식 날자 데이터를 이용하여 자동으로 공개될수 있게하는등 여러 재치있는 기능들을 사용한 웹사이트 개발.
+- 2018-02-03 ~ 2018-02-05(기획) / 2018-02-11 ~ 2018-02-13(개발)
 	- 프로젝트명 : 양디위키
 	- 사이트주소 : http://yywiki.lunab.xyz
 	- 개발 : JS로 파서, 랙서 기반의 마크 문법을 만들고 bootstrap으로 디자인했으며 SPRING으로 서버를 만들어 Cafe24에 업로드함.
-	- 활성여부 : False
-		- 사유 : 이쁘고 상큼하신 후배님들의 테러로 내린상태 (ㅅㅂ새끼들 ;;)
+	- 활성여부 : False (사유 : 많은 이용으로 인한 트레픽량 부족)
+- 2019-05-05 ~ 2019-06-10 : SAI (SJU - Sejong Artificial Intelligence) 1기
+	- Readme : https://github.com/sju-coml/SAI
+	- Participating in the competition to study Machine Learning:
+	- 인공지능 / 머신러닝 학술동아리
+	- 4인의 창립멤버로 구성
+	- Kaggle Competition을 투표로 선정한뒤 각자 Kernel을 정하여 분석후 모임때 발표하는 방식으로 진행
+	
+	- Kaggle Kernel 분석후 발표
 ## 장학금/상금 통장
-- 2015 TMAX IT희망학교 4기 멘티 \[700,000\]
-- 2016 STAC+ 인공지능 부문 최우수상 \[1,000,000\](3,000,000/3명)
-- 2016 TMAX IT희망학교 5기 멘토 \[1,000,000\]
+- 2016 TMAX IT희망학교 4기 멘티 \[700,000\]
+- 2017 STAC+ 인공지능 부문 최우수상 \[1,000,000\](3,000,000/3명)
+- 2017 TMAX IT희망학교 5기 멘토 \[1,000,000\]  
+
 ## Language
 - JAVA ( JSP, SPRING, SPRING BOOT )
 - HTML5/CSS3 + ( Bootstrap, Bulma )
