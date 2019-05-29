@@ -102,7 +102,8 @@
 		- JAVA
 			- Spring Legacy (MVC)
 				- 위키엔진 개발
-	- 2월 ~ 11월 수능공부...
+	- 2월 ~ 11월
+		- 대학수학능력시험 
 	- 12월 이후
 		- Spring Boot
 			- JPA
