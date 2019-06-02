@@ -199,11 +199,10 @@
 	- 활성여부 : False (사유 : 많은 이용으로 인한 트레픽량 부족)
 - 2019-05-05 ~ 2019-06-10 : SAI (SJU - Sejong Artificial Intelligence) 1기
 	- Readme : https://github.com/sju-coml/SAI
-	- Participating in the competition to study Machine Learning:
+	- Participating in the competition to study Machine Learning
 	- 인공지능 / 머신러닝 학술동아리
 	- 4인의 창립멤버로 구성
 	- Kaggle Competition을 투표로 선정한뒤 각자 Kernel을 정하여 분석후 모임때 발표하는 방식으로 진행
-	
 	- Kaggle Kernel 분석후 발표
 ## 장학금/상금 통장
 - 2016 TMAX IT희망학교 4기 멘티 \[700,000\]
