@@ -204,10 +204,20 @@
 	- 4인의 창립멤버로 구성
 	- Kaggle Competition을 투표로 선정한뒤 각자 Kernel을 정하여 분석후 모임때 발표하는 방식으로 진행
 	- Kaggle Kernel 분석후 발표
+- 2019-06-25 ~ 2019-06-26 : 2019 세종대학교 인공지능 해커톤
+	- [어플리케이션](https://github.com/sju-coml/SAI-Summer_Hackathon_Application)
+	- [서버](https://github.com/sju-coml/SAI-Summer_Hackathon_Server)
+	- 주제 : 세종대학교 콜라보랩 운영을 위한 인공지능 서비스
+	- 개발내용 : 콜라보랩 사용현황과 사용 요일별 시간별 패턴 학습 및 예상과 시각화 할 수 있는 어플리케이션과 자리의 소유권을 복잡한 절차없이 확립하는 규칙생성과 적용
+	- 스펙 : Android, MPandroidchart, YOLO3, Flask, keras, analysis
+	- 수상여부 : 대상을 수상함
 ## 장학금/상금 통장
 - 2016 TMAX IT희망학교 4기 멘티 \[700,000\]
-- 2017 STAC+ 인공지능 부문 최우수상 \[1,000,000\](3,000,000/3명)
+- 2017 STAC+ 2017 인공지능 부문 최우수상 \[3,000,000\](3명)
 - 2017 TMAX IT희망학교 5기 멘토 \[1,000,000\]  
+- 2019 세종대학교 인공지능 해커톤 \[1,500,000\](4명)
+- 2019 STAC+ 2019 인공지능 부문 멘토 \[ 미정 \]
+- 2019 티맥스 추천 장학생 \[ 미정 \]
 
 ## Language
 - JAVA ( JSP, SPRING, SPRING BOOT )
