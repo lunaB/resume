@@ -6,7 +6,7 @@
 - Spring legacy project
 - HTML/CSS/JS + Jquery/Ajax/Bootstrap
 - Mysql/Oracle DB
-- Python + Pandas/Matplotlib/Keras/PyQt
+- Python
 
 ## TimeLine
 - 중학교 1학년
@@ -211,6 +211,8 @@
 	- 개발내용 : 콜라보랩 사용현황과 사용 요일별 시간별 패턴 학습 및 예상과 시각화 할 수 있는 어플리케이션과 자리의 소유권을 복잡한 절차없이 확립하는 규칙생성과 적용
 	- 스펙 : Android, MPandroidchart, YOLO3, Flask, keras, analysis
 	- 수상여부 : 대상을 수상함
+- 2019-07-00 ~ 2019-09-00 : SK STAC 2019 인공지능분야 멘토
+	- 7팀 전담 예정
 ## 장학금/상금 통장
 - 2016 TMAX IT희망학교 4기 멘티 \[700,000\]
 - 2017 STAC+ 2017 인공지능 부문 최우수상 \[3,000,000\](3명)
@@ -222,8 +224,8 @@
 ## Language
 - JAVA ( JSP, SPRING, SPRING BOOT )
 - HTML5/CSS3 + ( Bootstrap, Bulma )
-- JAVASCRIPT + ( JQuery, React )
+- JAVASCRIPT + ( JQuery )
 - PHP ( PDO )
-- PYTHON ( Tensorflow, PyQt5 )
-- C# ( WinForm... )
-- C/C++ ( Console... )
+- PYTHON ( PyQt5 )
+- C# ( WinForm )
+- C/C++ ( Console, WinAPI )
