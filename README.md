@@ -13,6 +13,7 @@
 - Mysql/Oracle DB
 - Python
 
+<hr>
 > 저에 대한 정보는 여기까지만 알아도 충분 합니다.
 <hr>
 
