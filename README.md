@@ -225,7 +225,7 @@
 	- 스펙 : Android, MPandroidchart, YOLO3, Flask, keras, analysis
 	- 수상여부 : 대상을 수상함
 - 2019-07-00 ~ 2019-09-00 : SK STAC 2019 인공지능분야 멘토
-	- 7팀 전담 예정
+	- 3팀 전담 예정
 	
 ## 장학금/상금 통장
 - 2016 TMAX IT희망학교 4기 멘티 \[700,000\]
