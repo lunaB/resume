@@ -8,10 +8,10 @@
 - 양영디지털고등학교 소프트웨어개발과 졸업
 
 ## Skill Summary
-- Spring legacy project
-- HTML/CSS/JS + Jquery/Ajax/Bootstrap
+- JAVA - Spring legacy project
+- HTML/CSS/JS + Jquery/Bootstrap
 - Mysql/Oracle DB
-- Python
+- Python + Keras
 
 <hr>
 > 저에 대한 정보는 여기까지만 알아도 충분 합니다.
@@ -227,28 +227,44 @@
 - 2019-07-00 ~ 2019-09-00 : SK STAC 2019 인공지능분야 멘토
 	- 3팀 전담 예정
 	
-## 장학금/상금 통장
+## 장학금/상금/과외 통장
 - 2016 TMAX IT희망학교 4기 멘티 \[700,000\]
 - 2017 STAC+ 2017 인공지능 부문 최우수상 \[3,000,000\](3명)
 - 2017 TMAX IT희망학교 5기 멘토 \[1,000,000\]  
 - 2019 세종대학교 인공지능 해커톤 \[1,500,000\](4명)
-- 2019 STAC+ 2019 인공지능 부문 멘토 \[ 미정 \]
+- 2019 STAC+ 2019 인공지능 부문 멘토 \[ 700,000 +식비 \](1시간 7만원)
+- 2019 대학생 코딩과외 [500,000](1시간 3만원)
 - 2019 티맥스 추천 장학생 \[ 미정 \]
+- 2019 세종대학교 인공지능 아이디어 경진대회 장려 \[ 미정 \](4명)
+- 2019 SK 스마트관광앱 공모전 본선 수상 \[ 500,000 \](6명)
+- 2019 세종대학교 프로그래밍 교육 컨텐츠 공모전 \[ 미정 \](진행중)
+- 2019 세종대학교 알고리즘 경진대회 \[ 대상받아야지 \](진행중)
 
 ## Qualification
-> 자격증 안 모으고 있습니다. 걍 따래서 딴겁니다
-- 컴퓨터활용능력 2급
+> 자격증... 따기싫어...
+- 컴퓨터활용능력 2급(필)
 - 정보처리기능사
 - 웹디자인기능사
-- 리눅스마스터 2급
+- 리눅스마스터 2급(필)
 - OCJP
 - NCS LEVEL 3
 
-## Language
-- JAVA ( JSP, SPRING, SPRING BOOT )
-- HTML5/CSS3 + ( Bootstrap, Bulma )
-- JAVASCRIPT + ( JQuery )
-- PHP ( PDO )
-- PYTHON ( PyQt5 )
-- C# ( WinForm )
-- C/C++ ( Console, WinAPI )
+## All Skill
+> 정리중
+- JAVA
+- Spring Legacy
+- Spring Boot
+- HTML5/CSS3
+- Bootstrap
+- Bulma
+- Javascript
+- JQuery
+- Node Js
+- Python
+- Keras
+- Flask
+- PHP
+- PDO
+- C#
+- C
+- C++
