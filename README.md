@@ -141,8 +141,11 @@
 	- 활성상태 : FALSE (서버 트래픽량이 작아서 서버가 견디지 못하여 잠깐 내렸습니다.)
 	- [링크](http://yywiki.lunab.xyz)
 - Emotional-analysis-rest-api
+	- 실시간 영화리뷰데이터 크롤링
+	- 영화리뷰 텍스트 통계기반 긍부정판별기
 	- 감성 언어 사전 구축 (DB)
 	- 문장 긍부정 판별 restful api
+	- [발표자료](https://github.com/lunaB/Text-Emotional-Analysis-Rest-API/blob/master/Text-Emotional-Analysis-Rest-API.pptx)
 ## Activity
 - 2016-04 ~ 2016-12 : IT 희망학교 4기 멘티
     - 티맥스소프트와 서현청소년수련관이 만든 커리큘럼
