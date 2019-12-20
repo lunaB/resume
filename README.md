@@ -254,7 +254,7 @@
 - 웹디자인기능사
 - 리눅스마스터 2급(필)
 - OCJP
-- NCS LEVEL 3
+- NCS 소프트웨어 L3
 
 ## All Skill
 `Spring Legacy`
