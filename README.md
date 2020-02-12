@@ -11,7 +11,7 @@
 - JAVA - Spring legacy project
 - HTML/CSS/JS + Jquery/Bootstrap
 - Mysql/Oracle DB
-- Python + Keras
+- Python + Keras/pytorch
 
 ## 장학금/상금/과외
 > 고등학교 졸업이전 해커톤은 포함하지 않았습니다
