@@ -1,42 +1,45 @@
 ## TimeLine
-- 중학교 1학년
-	- 스크래치 개발
-- 중학교 2학년
-	- C언어 기초문법과 간단한 Window API 공부
-- 중학교 3학년
+음슴체로 영채의 코딩역사를 작성했습니다.
+- 중1
+	- 스크래치하다가 재미들림
+- 중2
+	- C언어 기초문법과 간단한 Window API 공부시작
+- 중3
 	- C언어 알고리즘 공부
 	- JAVA 기초문법 공부
-	- JAVA 마인크래프트 플러그인/모드 개발
-- 고등학교 1학년
+	- JAVA 마인크래프트 플러그인/모드 만들어보면서 놀았슴
+- 고1
 	- HTML/CSS/JS
-		- 네이버, 싸이월드, 네이트판 카피가능.
-		- 비동기 처리
-		- Bootstrap, Jquery, Angular(기초)
+		- 네이버, 싸이월드, 네이트판 퍼블리싱 카피했었슴
+		- 비동기 처리가능
+		- Bootstrap, Jquery
+		- Angular(기초만 함)
 	- PHP
+		- 구조에 연연하지 않은 개발을 많이함
 		- 게시판, 댓글, 대댓글, 로그인, 회원가입, 사진첨부, 파일첨부, 관리자페이지 등 기능개발
 		- 조회수, 댓글좋아요, 쓰던글 저장 등 세부기능 개발
-		- lalabel(기초) 공부
+		- lalabel(기초만 함)
 	- DATABASE
 		- Mysql
 		- Oracle DB
-			- PL SQL(기초) 공부
+			- 기본문법
+			- PL SQL(맛만 봄)
 		- Query
-			- function, format, subquery, join, group, having, order, ... 등등 문법 공부
+			- function, format, subquery, join, group, having, order, ... 등등 기초문법 공부
 	- C#
 		- C# 기초문법 공부
-		- WinForm 프로그래밍, 컴포넌트 공부
-		- 음성엔진
+		- WinForm 으로 간단한 게임도 만들었었슴, 컴포넌트를 이용한 비서&매크로 프로그램 만듬
 	- JAVA
 		- Spring Legacy (MVC)
-			- 간단한 게시판 개발 공부
+			- 정말 게시판의 기능만하는 게시판 개발
 			- taglib, jsp, mybatis, mysql 등을 이용한 개발 공부
 		- Socket 통신
-			- 카카오톡 몇가지 기능 카피 가능
-			- 멀티 게임 개발 
-		- JavaFX, Swing 응용 공부
+			- 카카오톡 유사 윈도우어플리케이션 n:n 개발
+			- 간단한 멀티 카드게임 개발 
+		- JavaFX, Swing 응용 공부함
 		- 내부 클래스 공부
-			- EX) File, Robot
-		- 알고리즘 공부
+			- EX) File, Robot(요런거로 매크로도 많이 만듬)
+		- 알고리즘 공부 (NYPC 같은 알고리즘 대회같은것도 참가함)
 	- Raspberry Pi
 		- Ubuntu
 		- 웹서버 구축
@@ -50,8 +53,8 @@
 		- 기초문법 공부
 	- Photoshop
 		- 웹디자인, 사진편집
-	- 정보처리기능사, 컴퓨터 활용능력, 리눅스마스터 자격증공부
-- 고등학교 2학년
+	- 정보처리기능사, 컴퓨터 활용능력(실기시험안봄), 리눅스마스터 자격증공부
+- 고2
 	- 실무
 		- 사내 프로젝트 관리
 		- 프로젝트 방법론
@@ -64,35 +67,35 @@
 		- Spring Legacy (MVC)
 			- Maven, JAVA(7~9), MySql
 			- MVC, AOP 이론 공부
-			- Filter, interceptor ..등 내장기능 공부
+			- Filter, interceptor 등의 구조 공부
 			- 다중파일 업로드, 폴더 업로드
-			- Spring Security (CSRF, 권한설정)
+			- Spring Security (CSRF, 접근권한설정)
 			- Restful API 개발
 			- 웹로그분석
-			- Ehcache (한번구현)
+			- Ehcache (안해봄)
 		- API 수집
 	- Unity
-		- 간단한 슈팅게임 개발
+		- 간단한 슈팅게임 개발 (비행기 게임)
 		- TOP view 총게임 개발
 	- Python
-		- 크롤링, selenium, phantom.js
-		- PyQt5
-		- Numpy, Matplotlib
-		- Django(기초) 공부
-		- Numpy 다층신경망 
+		- 크롤링, selenium, phantom.js (네이버 댓글, 평점 크롤링 해봄)
+		- PyQt5 (인공지능 블럭코딩 뷰 만듬)
+		- Numpy, Matplotlib (어느정도 생각하는대로 그래프 잘 그림)
+		- Django(기초) 개발해봄 (간단한 게시판 개발가능)
+		- AI DNN numpy만 사용해서 구현
 		- Tensorflow(기초)
 	- 알고리즘
-		- interpreter
+		- interpreter (parser, lexer 구조 적용하여 계산기, 함수 기능있는 언어)
 		- Case base reasoning (사례기반추론)
 	- AI
 		- 회귀분석 기초 공부
 		- 신경망(CNN, ANN, LSTM) 기초 이론
-		- 군집화 알고리즘 (K-Mean, DBSCAN ...등)
+		- 군집화 알고리즘 구현해봄 (K-Mean, DBSCAN ...등)
 	- 웹디자인기능사 자격증 공부
-- 고등학교 3학년
-	- 3월 이전
+- 고3
+	- 3월이전
 		- HTML/CSS/JS
-			- 마크문법엔진 개발
+			- 마크문법엔진 개발 (parser, lexer, generator구조로)
 		- JAVA
 			- Spring Legacy (MVC)
 				- 위키엔진 개발
@@ -101,8 +104,8 @@
 	- 12월 이후
 		- Spring Boot
 			- JPA
-- 대학교 1학년
-	- 웹보안
+- 대1
+	- 웹보안 (양디위키)
 		- 리캡챠
 		- 과한 트래픽 차단
 	- Python
@@ -111,6 +114,12 @@
 		- Catboost (사용)
 		- Pandas
 		- Keras
-	- JAVA
+	- JAVA (양디위키)
 		- Spring Legacy (MVC)
 			- JWT 토큰인증
+	- AI
+		- SAI 동아리 개설
+			- RNN/LSTM (문장감정분석 프로젝트), GAN (애니얼굴 만들기프로젝트), STYLE GAN(인공지능아이디어 공모전 아트홀 프로젝트)
+			- Kaggle 커널 분석 발표
+			- 모두의딥러닝 시즌2 tensorflow 정리
+			- 논문 읽기 'Tacotron'			
