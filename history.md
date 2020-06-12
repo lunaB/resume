@@ -122,4 +122,12 @@
 			- RNN/LSTM (문장감정분석 프로젝트), GAN (애니얼굴 만들기프로젝트), STYLE GAN(인공지능아이디어 공모전 아트홀 프로젝트)
 			- Kaggle 커널 분석 발표
 			- 모두의딥러닝 시즌2 tensorflow 정리
-			- 논문 읽기 'Tacotron'			
+			- 논문 읽기 'Tacotron'
+			
+- 대2
+	- Firebase
+		- board
+		- nodejs
+		- realtime database
+		- firestore
+		- authentication & "admin"
