@@ -13,7 +13,8 @@
 - JAVA - Spring legacy project
 - HTML/CSS/JS + Jquery/Bootstrap
 - Mysql/Oracle DB
-- Python + Keras/pytorch
+- Python + Pytorch
+- NodeJS + express/firebase
 
 ## 장학금/상금/과외/멘토링
 > 프로그래밍 (상금없는종목 미포함)
