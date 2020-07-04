@@ -14,7 +14,7 @@
 - HTML/CSS/JS + Jquery/Bootstrap
 - Mysql/Oracle DB
 - Python + Pytorch
-- NodeJS + express/firebase
+- NodeJS + express
 
 ## 장학금/상금/과외/멘토링
 > 프로그래밍 (상금없는종목 미포함)
@@ -34,12 +34,13 @@
 - 2020 세종대학교 피칭-멘토링데이 (창업경진 대회) **대상** \[ 1,000,000 \](4명)
 - 2020 세종대학교 창업아이디어 경진대회 **우수상** \[ 400,000 \](5명)
 - 2020 STAC+ 2020 인공지능 부문 **멘토** (진행중)
+- 2020 세종대학교 제8회 인공지능 해커톤 **수상확정** \[ 히히..! \](4명)
 
 > 기타 종목 
 - 2019 종가집김치 포장 차별화 아이디어 공모전 \[ 100,000 \](3명)
 - 2019 세종대학교 비교과 마일리지 장학금 \[ 200,000 \](1명)
 
-## Service
+## Host Service
 - 양디위키 (yywiki)
 	- 활성상태 : FALSE (서버 트래픽량이 작아서 서버가 견디지 못하여 잠깐 내렸습니다.)
 	- [링크](http://yywiki.lunab.xyz)
@@ -49,8 +50,8 @@
 	- 감성 언어 사전 구축 (DB)
 	- 문장 긍부정 판별 restful api
 	- [발표자료](https://github.com/lunaB/Text-Emotional-Analysis-Rest-API/blob/master/Text-Emotional-Analysis-Rest-API.pptx)
+	
 ## Qualification
-> 자격증... 따기싫어...
 - 정보처리기능사
 - 웹디자인기능사
 - OCJP
