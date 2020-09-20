@@ -53,15 +53,17 @@
 - 2019 제2회 예술 해커톤
 
 ## Host Service
-- 양디위키 (yywiki)
+- 양디위키 (2018.02 ~ 2019.9)
 	- 활성상태 : FALSE (서버 트래픽량이 작아서 서버가 견디지 못하여 잠깐 내렸습니다.)
-	- [링크](http://yywiki.lunab.xyz)
+	- [링크] (http://yywiki.lunab.xyz)
 - 긍부정분류 API (Emotional-analysis-rest-api)
 	- 실시간 영화리뷰데이터 크롤링
 	- 영화리뷰 텍스트 통계기반 긍부정판별기
 	- 감성 언어 사전 구축 (DB)
 	- 문장 긍부정 판별 restful api
 	- [발표자료](https://github.com/lunaB/Text-Emotional-Analysis-Rest-API/blob/master/Text-Emotional-Analysis-Rest-API.pptx)
+- 패션리더
+
 	
 ## Qualification
 - 정보처리기능사
