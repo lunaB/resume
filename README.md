@@ -12,7 +12,7 @@
 ## Skill Summary
 - JAVA - Spring legacy project
 - HTML/CSS/JS + Jquery/Bootstrap
-- Mysql/Oracle DB
+- Mysql
 - Python + Pytorch
 - NodeJS + express
 
