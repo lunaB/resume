@@ -56,15 +56,17 @@
 - 양디위키 (2018.02 ~ 2019.9)
 	- 활성상태 : FALSE (서버 트래픽량이 작아서 서버가 견디지 못하여 잠깐 내렸습니다.)
 	- [링크] (http://yywiki.lunab.xyz)
-- 긍부정분류 API (Emotional-analysis-rest-api)
+- 긍부정분류 API (Emotional-analysis-rest-api) (2016)
 	- 실시간 영화리뷰데이터 크롤링
 	- 영화리뷰 텍스트 통계기반 긍부정판별기
 	- 감성 언어 사전 구축 (DB)
 	- 문장 긍부정 판별 restful api
 	- [발표자료](https://github.com/lunaB/Text-Emotional-Analysis-Rest-API/blob/master/Text-Emotional-Analysis-Rest-API.pptx)
-- 패션리더
+- NUGU 패션리더 (2017)
+	- NUGU 어플리케이션
+	- 패션의류 크롤링및 분류
+	- 날씨와 행사에 기반한 옷의 색, 종류를 고려한 추천
 
-	
 ## Qualification
 - 정보처리기능사
 - 웹디자인기능사
