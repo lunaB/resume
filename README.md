@@ -6,7 +6,6 @@
 - 세종대학교 생명과학대학 생명시스템학부 바이오산업자원공학과
 - 세종대학교 생명과학대학 생명시스템학부 19학번 입학
 - 콤텍그룹 인젠트 개발팀 1년 근무
-- 양영디지털고등학교 소프트웨어개발과 졸업
 - [Hisyory Full](https://github.com/lunaB/resume/blob/master/history.md)
 
 ## Skill Summary
