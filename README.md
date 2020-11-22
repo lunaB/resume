@@ -5,12 +5,13 @@
 ## History Summary
 - 세종대학교 생명과학대학 생명시스템학부 바이오산업자원공학과
 - 세종대학교 생명과학대학 생명시스템학부 19학번 입학
-- 콤텍그룹 인젠트 개발팀 1년 근무
+- 콤텍그룹 인젠트 웹 개발팀 1년 근무
+- Seullng(스르릉) CTO (2020.02.04 ~)
 - [Hisyory Full](https://github.com/lunaB/resume/blob/master/history.md)
 
 ## Skill Summary
 - JAVA - Spring legacy project
-- HTML/CSS/JS + Jquery/Bootstrap
+- HTML/CSS/JS + Jquery/Bootstrap/Vue
 - Mysql
 - Python + Pytorch
 - NodeJS + express
