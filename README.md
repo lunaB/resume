@@ -19,7 +19,8 @@
 	- NodeJS + express
 - well!
 	- Pytorch
-
+	- Electron
+	- Vue
 - new!
 	- ReactNative
 
@@ -65,6 +66,14 @@
 - 2019 제2회 예술 해커톤 : 본선
 - 2020 청정콘 (중기부 창업경진대회) : 예선
 - 2020 ICT 장애인 보조공학기기 공모전 : 본선 2차 (최종) 
+
+## Development
+- BoBa - IPP 프린팅 인터페이스 외주 개발
+- Cocktail-MBTI - PM (PublicLuna)
+- Seullng 전동 모빌리티 수리매칭 플랫폼
+	- IOS / Android for User
+	- Web for Shop
+	- Server / Database
 
 ## Host Service
 - 양디위키 (2018.02 ~ 2019.9)
