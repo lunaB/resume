@@ -24,6 +24,12 @@
 - new!
 	- ReactNative
 
+## Group 
+- 2019 SAI 1기/2기 스터디 구성
+- 2020 SAI 3기 동아리 운영
+- 2021 SAI 4기 동아리 운영
+- 2021 Team: Project Luna 운영시작
+
 ## Activity
 > 프로그래밍
 - 2016 TMAX IT희망학교 웹프로그래밍 과정 4기 **멘티 장학금** \[ 700,000 \](1명)
@@ -69,12 +75,11 @@
 
 ## Development
 - BoBa - IPP 프린팅 인터페이스 외주 개발
-- Cocktail-MBTI - PM (PublicLuna)
+- Team:PublicLuna - Cocktail-MBTI - PM (https://cocktail-mbti.com)
 - Seullng 전동 모빌리티 수리매칭 플랫폼
-	- IOS / Android for User
-	- Web for Shop
-	- Server / Database
-
+	- IOS / Android for User (개발총괄)
+	- Web for Shop (개발총괄)
+	- Server / Database (개발총괄)
 ## Host Service
 - 양디위키 (2018.02 ~ 2019.9)
 	- 활성상태 : FALSE (서버 트래픽량이 작아서 서버가 견디지 못하여 잠깐 내렸습니다.)
